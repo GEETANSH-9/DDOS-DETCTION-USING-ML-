@@ -1,0 +1,12 @@
+# Ignore datasets
+*.csv
+
+# Ignore model files
+*.pkl
+
+# Python cache
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
