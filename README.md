@@ -18,7 +18,7 @@ Features reduced from 80+ → 23 real-time-computable features via RF importance
 
 <img width="1429" height="794" alt="Screenshot 2026-04-16 at 12 45 13 PM" src="https://github.com/user-attachments/assets/fedce3a0-2b49-42c8-a0ad-b922edb06ca5" />
 
-<img width="1429" height="794" alt="Screenshot 2026-04-16 at 12 45 13 PM" src="https://github.com/user-attachments/assets/b8b16bb9-c976-4fb7-b8ae-321f92119d6a" />
+
 
 ## How It Works
 
